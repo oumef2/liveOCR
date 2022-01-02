@@ -1,0 +1,1 @@
+python liveOCR.py --model frozen_east_text_detection.pb -input "path ti image or video/skip to use live camera"

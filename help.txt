@@ -1,1 +1,1 @@
-python liveOCR.py --model frozen_east_text_detection.pb -input "path ti image or video/skip to use live camera"
+python liveOCR.py --model frozen_east_text_detection.pb -input "path to image or video /skip this argument to use live camera"
